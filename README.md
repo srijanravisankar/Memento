@@ -38,8 +38,8 @@
 
 ## 🖥️ How to Use
 
-1. **Download the `.exe` file** from the releases page.
-2. Run the executable.
+1. **Download the `Memento.zip` file** from the releases page https://github.com/srijanravisankar/Memento/releases.
+2. Extract and run the executable for windows.
 
    ⚠️ **If Windows shows a “Windows protected your PC” warning:**
    - Click **More Info**
